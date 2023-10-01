@@ -14,18 +14,21 @@
 ## ❗️ notion에 키워드 정리 완료 여부
 내가 notion에 키워드를 정리를 완료한 경우 체크표시 해주세요~
 
-- [ ] 키워드 정리 완료
+- [x] 키워드 정리 완료
 
 <br>
 
 ## ❗️ 3주차 과제
 1. AWS EC2 인스턴스 생성
    - 수행한 화면 혹은 내용을 작성해 주세요
+   - ![image](https://github.com/jjangddu/GDSC-2023-Server-Study/assets/55375379/13f50780-55b7-418c-85cf-a7efeac65185)
+
 
 <br/>
 
 2. ssh 사용하여 ubuntu 인스턴스 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
+   - 
 
 <br/>
 
